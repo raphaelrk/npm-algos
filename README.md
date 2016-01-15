@@ -29,7 +29,7 @@
   - [Blowfish](https://www.npmjs.com/package/blowfish)
   - [ChaCha20/Poly1305](https://www.npmjs.com/package/chacha)
 - [Diffie-Hellman](https://www.npmjs.com/package/diffie-hellman)
-- [Eliptical Curve](https://www.npmjs.com/package/elliptic)
+- [Elliptical Curve](https://www.npmjs.com/package/elliptic)
 
 ## Data Structures
 
